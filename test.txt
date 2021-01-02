@@ -1,0 +1,122 @@
+soundar@soundar365.on
+
+
+
+
+rajansoundars1992@gmail.com
+
+
+1.ec2-user@ec2-3-92-127-110.compute-1.amazonaws.com    10.1.1.96        3.92.127.110         ngions
+
+2.ec2-user@ec2-35-170-80-87.compute-1.amazonaws.com    10.1.2.244         35.170.80.87       jenkins
+
+3.ec2-user@ec2-3-91-47-78.compute-1.amazonaws.com     10.1.3.243            3.91.47.78  app server
+
+ ls
+      mkdir /test
+      ls
+      mkdir test
+      ls
+      touch abc.txt
+      mkdir test1
+      cp test test1
+      cp -rf test test1
+     cp abc.txt test
+     cd test
+     ls
+     mv abc.txt xyz.txt
+     ls
+     history
+
+
+
+
+    mkdir chennai backup
+    cd chennai
+    touch india.txt 
+    cd ..
+    cp -rf chennai backup
+    mkdir coimbatore
+    cp -rf chennai coimbatore
+
+ rm -rf backup
+    cp -rf chennai/ backup
+    #mkdir coimbatore
+rmdir -rf coimbatore
+    cp -rf chennai/ coimbatore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appp server key generate
+
+
+
+
+
+
+
+
+
+jenkins machine
+
+    
+    
+    
+    
+    
+    
