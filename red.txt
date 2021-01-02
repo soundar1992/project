@@ -1,0 +1,37 @@
+ashwini
+rohini
+thiruvathirai
+uthiram -simmam,kanni
+astham
+suwathi
+uthiradam
+thiruvonam
+
+
+https://www.journaldev.com/24954/install-wordpress-on-ubuntu
+
+how to create lvm in redhat linux 7 step by step
+
+Meeting ID: 842 5949 2401
+
+Passcode: qfJp0g
+
+*bn*1%PnYuHOvcP
+arn:aws:iam::227776195472:user/mani
+
+
+Uninstall incompatible app
+
+access key: AKIATKCEE5OIEDYRSZUR 
+
+secret key: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
+
+test-bucket-2020
+
+aws configure list
+   30  aws configure
+   31  aws configure list
+   32  cat ~/.aws/config
+   33  aws s3 ls
+   34  aws s3 ls test-bucket-2020
+   35  aws user list
